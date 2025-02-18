@@ -1,3 +1,4 @@
 # vedikin-demo
 This is my first Git Repository
-Author - Arti Pandya
+
+<b>Author - Arti Pandya</b>
