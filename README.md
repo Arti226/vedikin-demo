@@ -5,7 +5,7 @@ This is my First Git Repository.
 
 <br>
 This is my Second repository.
-</h3>
+
 </br>
 
 <b>Author - Arti Pandya</b>
