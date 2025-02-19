@@ -1,8 +1,10 @@
 # vedikin-demo
 <h3 style color="blue">
-This is my first Git Repository.
+This is my First Git Repository.
+</h3>
+</style
 <br>
-This is my second repository.
+This is my Second repository.
 </h3>
 </br>
 
