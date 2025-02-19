@@ -5,7 +5,6 @@ This is my First Git Repository.
 <h1 style="color:blue;">A Blue Heading</h1>
 <br>
 This is my Second repository.
-
 </br>
 
 <b>Author - Arti Pandya</b>
